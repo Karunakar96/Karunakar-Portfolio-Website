@@ -33,60 +33,6 @@ This repository contains my **personal portfolio website**, built using **React*
 
 ---
 
-## 🛠 Tech Stack
-
-* **Frontend:** React
-* **Styling:** Tailwind‑style utility classes
-* **Data & Reporting:** Advanced Excel, Python automation
-* **Hosting:** GitHub Pages / Netlify / Vercel
-
----
-
-## 🚀 How to Run Locally
-
-1. Install **Node.js**
-2. Clone the repository
-
-   ```bash
-   git clone https://github.com/yourusername/portfolio.git
-   ```
-3. Install dependencies
-
-   ```bash
-   npm install
-   ```
-4. Start the development server
-
-   ```bash
-   npm start
-   ```
-5. Open in browser
-
-   ```
-   http://localhost:3000
-   ```
-
----
-
-## 🌍 Deployment Options
-
-### GitHub Pages
-
-* Build the project: `npm run build`
-* Enable GitHub Pages from repository settings
-
-### Netlify
-
-* Build the project
-* Drag & drop the build folder into Netlify
-
-### Vercel
-
-* Connect the GitHub repository
-* Click **Deploy**
-
----
-
 ## 📄 Resume
 
 A downloadable resume is linked directly on the website for recruiter convenience.
@@ -95,19 +41,8 @@ A downloadable resume is linked directly on the website for recruiter convenienc
 
 ## 📬 Contact
 
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
+* **Email:** [karunakarvodnala56@gmail.com)
 * **LinkedIn:** [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
 ---
 
-## 📌 Purpose of This Portfolio
-
-This portfolio is designed to:
-
-* Demonstrate **ownership‑level responsibility**
-* Showcase **leadership + analytics + automation**
-* Provide recruiters with a **clear, structured view** of my impact
-
----
-
-© 2026 | Portfolio – E‑Learning & Application Operations
