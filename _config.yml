@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
+name": "docsify-demo"
+main": "index.html"
 title: Karunakar Vodnala
 description: Team Lead - E- Learning Content & Application Operations
