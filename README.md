@@ -1,8 +1,3 @@
-# Portfolio Website – E‑Learning & Application Operations
-
-This repository contains my **personal portfolio website**, built using **React** with a modern, clean UI. The portfolio highlights my professional journey, leadership experience, application ownership, and data‑driven contributions in the EdTech domain.
-
----
 
 ## 👤 Profile Overview
 
@@ -23,16 +18,6 @@ This repository contains my **personal portfolio website**, built using **React*
 
 ---
 
-## 📊 Metrics & Impact (Sample)
-
-* 10,000+ learners supported
-* 500+ assessments and tests conducted
-* 1,000+ analytical and performance reports generated
-
-*(Metrics can be adjusted based on actual scale.)*
-
----
-
 ## 📄 Resume
 
 A downloadable resume is linked directly on the website for recruiter convenience.
@@ -44,5 +29,4 @@ A downloadable resume is linked directly on the website for recruiter convenienc
 * **Email:** [karunakarvodnala56@gmail.com)
 * **LinkedIn:** [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
----
 
